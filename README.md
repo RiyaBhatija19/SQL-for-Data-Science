@@ -1,6 +1,4 @@
 # SQL-for-Data-Science
-# SQL for Data Science
-
 This repository contains my SQL practice for Data Science and Placement preparation.
 
 ## Topics Covered
